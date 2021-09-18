@@ -18,14 +18,16 @@ Building AI is a free online course where you’ll learn about the actual algori
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* Find trends, patterns, and associations
+* Discover inefficiencies
+* Execute plans
+* Learn and become better
+* Predict future outcomes based on historical trends
+*Inform fact-based decisions
 * etc.
 
 
-## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+## Images In My Readme?
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -45,7 +47,6 @@ def main():
    totPop = sum(pop)
    totFish = sum(fishers)
 
-   # write your solution here
 
    for i in range(len(countries)):
       print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
@@ -67,10 +68,22 @@ If you need to use links, here's an example:
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+* What does your project _not_ solve
+* can't Write Bug-Free Software
+* can't Make Moral Choices
+* can't Predict the Future of our Universe
+etc.
 
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+* COMMUNICATION SKILLS (LISTENING, SPEAKING AND WRITING)
+* ANALYTICAL AND RESEARCH SKILLS
+* FLEXIBILITY/ADAPTABILITY
+* ABILITY TO MAKE DECISIONS AND SOLVE PROBLEMS
+* ABILITY TO PLAN, ORGANISE AND PRIORITISE WORK
+*  LEADERSHIP/MANAGEMENT SKILLS
+etc.
 
 
 ## Acknowledgments
